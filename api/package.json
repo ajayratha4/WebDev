@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "AjayRatha",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "nodemon": "^2.0.15",
+    "npm": "^8.4.0",
+    "pm2": "^5.1.2",
+    "express": "^4.17.1"
+  }
+}
